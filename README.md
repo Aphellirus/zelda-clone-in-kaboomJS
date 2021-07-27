@@ -12,6 +12,6 @@ https://user-images.githubusercontent.com/60182775/126813138-597678e2-f6b0-458c-
 
 
 
-*Kaboom is a Javascript library, check out the documentation to learn more about it: https://kaboomjs.com
+*Kaboom is a Javascript library, check out the [documentation](https://kaboomjs.com) to learn more about it.
 
 *Ania Kubów has a great tutorial on how to make one of those in her youtube channel, so shout out to her: https://www.youtube.com/watch?v=XX93O4ZVUZI&t=3437s
